@@ -23,6 +23,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
     This is my JSP page. <br>
 	
-	Test Git function by zhangsan At 2018-05-22.
+	Test Git function by zhangsan At 2018-05-22.<br>
+	
+	update too.
   </body>
 </html>
