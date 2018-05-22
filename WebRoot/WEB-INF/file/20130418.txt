@@ -1,0 +1,7 @@
+zhangsan  nan       25        00        1234567890
+lisi      nan       20        01        1234567890
+wangwu    nv        23        00        1234567890
+zhaoliu   nan       22        02        1234567890
+tianqi    nan       26        01        1234567890
+zhangsan  nan       28        00        1234567890
+zhangsan  nan       25        00        1234567890
